@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Conditionals", "03_Condi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_loops", "04_loops\04_loops.csproj", "{22A605EB-2508-4416-9B7F-C4A5AD16C27F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MorningChallenges", "MorningChallenges\MorningChallenges.csproj", "{5D87B335-CD20-42A0-9A7C-09DBBF898799}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{22A605EB-2508-4416-9B7F-C4A5AD16C27F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22A605EB-2508-4416-9B7F-C4A5AD16C27F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22A605EB-2508-4416-9B7F-C4A5AD16C27F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D87B335-CD20-42A0-9A7C-09DBBF898799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D87B335-CD20-42A0-9A7C-09DBBF898799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D87B335-CD20-42A0-9A7C-09DBBF898799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D87B335-CD20-42A0-9A7C-09DBBF898799}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

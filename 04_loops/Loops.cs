@@ -22,9 +22,9 @@ namespace _04_loops
         [TestMethod]
         public void ForLoops()
         {
-            string gretting = "Hello World!";
+            string greeting = "Hello World!";
 
-            foreach (char letter in gretting)
+            foreach (char letter in greeting)
             {
                 Console.WriteLine(letter);
             }
@@ -50,6 +50,17 @@ namespace _04_loops
             {
                 Console.WriteLine("keep going");
             } while (int < 5);
+        }
+        [TestMethod]
+        public void W1D3MorningChallenge()
+        {
+            string weirdWord = "supercalifragilisticexpalidocious";
+
+
+            foreach (char output in weirdWord)
+            {
+                Console.WriteLine(output);
+            }
         }
     }
 }
